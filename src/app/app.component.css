@@ -1,0 +1,9 @@
+
+.max-width{
+  max-width: 1300px;
+  margin: auto;
+}
+app-introduction{
+  background:url('../assets/images/elena-joland-mjeQon0Mh_Q-unsplash.jpg')no-repeat center center fixed;
+  background-size: cover;
+}

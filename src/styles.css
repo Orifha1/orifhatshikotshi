@@ -1,11 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
-*{
+/* *{
   font-family: 'Heebo', sans-serif;
-}
-/* body{
-  background-color: #f7f7f7;
 } */
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background-color: #f7f7f7;
+}
 
 .btn{
-  background: #0A9396;
+  color: #fff;
+  background: #34b7a7;
+}
+hr{
+  margin: 0px;
 }
