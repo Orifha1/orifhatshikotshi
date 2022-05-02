@@ -1,6 +1,9 @@
 body {
   background: #eee
 }
+.about-me{
+  font-size: 14px;
+}
 
 .card {
   border: none;
